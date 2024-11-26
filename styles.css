@@ -1,0 +1,33 @@
+h1 {
+    font-weight: bold;
+    font-size: 32px;
+    color: navy;
+}
+
+h2 {
+    font-weight: bold;
+    font-style: italic;
+    color: forestgreen;
+}
+
+.recipe-list {
+    background-color: lightslategray;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    font-size: 18px;
+    width: 300px;
+    height: 100px;
+    align-content: center;
+}
+
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+    width: 360px;
+    height: auto;
+}
